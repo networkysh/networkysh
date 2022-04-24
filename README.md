@@ -1,1 +1,1 @@
-![lies](https://i.imgur.com/Mdz0NSX.gif)
+![lies](https://cdn.discordapp.com/attachments/881924480245575713/960967919444045855/cb88d57a482f26e6b7034c3574e6cb15.gif)
