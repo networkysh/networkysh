@@ -1,5 +1,3 @@
-![lies](https://i.imgur.com/kS6Vz58.gif)
-
 <div align="center">
   <a href="https://github.com/networkysh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=networkysh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
